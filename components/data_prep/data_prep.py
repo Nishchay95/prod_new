@@ -5,6 +5,7 @@ from sklearn.model_selection import train_test_split
 import logging
 import mlflow
 print("data preprocessing completed")
+print("Hello")
 
 def main():
     """Main function of the script."""
